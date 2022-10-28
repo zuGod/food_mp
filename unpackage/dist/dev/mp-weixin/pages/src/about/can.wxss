@@ -1,0 +1,34 @@
+
+.title.data-v-8ff44a8c {
+  flex: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  margin: 8px;
+  font-style: inherit;
+}
+.word1.data-v-8ff44a8c {
+  text-indent: 30px;
+  padding: 0px 20px;
+  line-height: 30px;
+  border-bottom: 1px solid rgb(136, 132, 132);
+}
+.word2.data-v-8ff44a8c{
+    text-indent: 30px;
+  padding: 0px 20px;
+  line-height: 30px;
+}
+.btn.data-v-8ff44a8c {
+  display: flex;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  line-height: 40px;
+}
+.btn1.data-v-8ff44a8c {
+  float: left;
+}
+

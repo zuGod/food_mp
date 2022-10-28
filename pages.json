@@ -1,0 +1,144 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+
+		{
+		    "path" : "pages/src/login",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": true
+		    }
+		    
+		},
+		{
+	        "path" : "pages/src/collection",
+	        "style" :                                                                                    
+	        {
+	            "navigationBarTitleText": "食品安全检测管理系统",
+	            "enablePullDownRefresh": true
+	        }
+	        
+	    },
+		{
+            "path" : "pages/src/controltable",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "食品安全检测管理系统",
+                "enablePullDownRefresh": true
+            }
+            
+        },
+		{
+			"path": "pages/404",
+			"style": {
+				"navigationBarTitleText": "页面未找到",
+				"enablePullDownRefresh": true
+			}
+		}
+        
+        ,{
+            "path" : "pages/src/me",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "个人中心",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/src/about/about",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "关于账户",
+                "enablePullDownRefresh": true
+            }
+            
+        },
+
+		{
+		    "path" : "pages/src/about/can",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "帮助中心",
+		        "enablePullDownRefresh": true
+		    }
+		    
+		},
+		{
+		    "path" : "pages/src/about/check",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "帮助中心",
+		        "enablePullDownRefresh": true
+		    }
+		    
+		},
+		{
+		    "path" : "pages/src/shop",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "添加样品",
+		        "enablePullDownRefresh": true
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/index/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/src/about/setting",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+		{
+		    "path" : "pages/src/listShop",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#3cc51f",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [
+		// 	{
+		// 	"pagePath": "pages/src/controltable",
+		// 	"iconPath": "static/icon/home.png",
+		// 	"selectedIconPath": "static/icon/home-active.png",
+		// 	"text": "控制台"
+		// },
+		{
+			"pagePath": "pages/src/collection",
+			"iconPath": "static/icon/shop.png",
+			"selectedIconPath": "static/icon/shop-active.png",
+			"text": "收样管理"
+		},{
+			"pagePath": "pages/src/me",
+			"iconPath": "static/icon/contact.png",
+			"selectedIconPath": "static/icon/contact-active.png",
+			"text": "我的"
+		}]
+	}
+}

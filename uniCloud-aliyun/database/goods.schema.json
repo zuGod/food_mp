@@ -1,0 +1,99 @@
+{
+	"bsonType": "object",
+	"required": [],
+	"permission": {
+		"read": true,
+		"create": true,
+		"update": true,
+		"delete": true
+	},
+	"properties": {
+		"_id": {
+			"description": "ID，系统自动生成"
+		},
+		"region": {
+			"bsonType": "string",
+			"description": "区域",
+			"title": "区域",
+			"trim": "both"
+		},
+		"stall": {
+			"bsonType": "string",
+			"description": "档口",
+			"title": "档口",
+			"trim": "both"
+		},
+		"batch_number": {
+			"bsonType": "string",
+			"description": "批次",
+			"title": "批次",
+			"trim": "both"
+		},
+		"goods_name": {
+			"bsonType": "string",
+			"description": "货品名称",
+			"title": "货品名称",
+			"trim": "both"
+		},
+		"quantity_in": {
+			"bsonType": "string",
+			"description": "进货数量",
+			"title": "进货数量",
+			"trim": "both"
+		},
+		"quantity_sample": {
+			"bsonType": "string",
+			"description": "样品数量",
+			"title": "样品数量",
+			"trim": "both"
+		},
+		"standard_value": {
+			"bsonType": "string",
+			"description": "测量标准值",
+			"title": "测量标准值",
+			"trim": "both"
+		},
+		"receive_by": {
+			"bsonType": "string",
+			"description": "收样员",
+			"title": "收样员",
+			"trim": "both"
+		},
+		"receive_time": {
+			"bsonType": "string",
+			"description": "备注",
+			"title": "备注",
+			"trim": "both"
+		},
+		"remarks": {
+			"bsonType": "string",
+			"description": "备注",
+			"title": "备注",
+			"trim": "both"
+		},
+		"sample_code": {
+			"bsonType": "string",
+			"description": "备注",
+			"title": "备注",
+			"trim": "both"
+		},
+		"check_item": {
+			"bsonType": "string",
+			"description": "备注",
+			"title": "备注",
+			"trim": "both"
+		},
+		"sanple_name": {
+			"bsonType": "string",
+			"description": "备注",
+			"title": "备注",
+			"trim": "both"
+		},
+		"check_data": {
+			"bsonType": "string",
+			"description": "备注",
+			"title": "备注",
+			"trim": "both"
+		}
+	}
+}

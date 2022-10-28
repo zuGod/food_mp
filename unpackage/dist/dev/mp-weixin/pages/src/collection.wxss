@@ -1,0 +1,57 @@
+
+.btn {
+	width: 30%;
+	margin-left: 15%;
+	margin-top: 10%;
+	margin-bottom: 5%;
+	font-size: 15px;
+	float: left;
+}
+.btn1 {
+	background-color: aqua;
+}
+.liebiao {
+	clear: both;
+}
+.title {
+	font-weight: bold;
+}
+.zuida {
+	clear: both;
+	display: flex;
+	border: 1px solid black;
+	width: 99%;
+}
+.cida {
+	float: left;
+	margin: 5px;
+}
+.dakuai {
+	float: left;
+}
+.dakuai2 {
+	float: right;
+	display: flex;
+}
+.fontstyle {
+	margin: 10px;
+}
+.fontstyle2 {
+	margin-left: 10px;
+	color: #39abab;
+}
+.tan {
+	padding: 5px;
+	border: 2px solid #39abab;
+}
+.title2 {
+	font-weight: bold;
+	font-size: 15px;
+	color: #5d92ca;
+	display: block;
+}
+.xiangxi {
+	display: block;
+	margin: 5px;
+}
+

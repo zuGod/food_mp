@@ -1,0 +1,14 @@
+
+.neirong{
+	margin: 10px;
+	font-size: 36rpx;
+}
+.xian{
+	height: 1rpx;
+	width: 100%;
+	background-color: gray;
+	margin-top: 30rpx;
+	margin-bottom: 30rpx;
+}
+
+

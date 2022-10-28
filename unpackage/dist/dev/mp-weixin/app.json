@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/src/login",
+    "pages/src/collection",
+    "pages/src/controltable",
+    "pages/404",
+    "pages/src/me",
+    "pages/src/about/about",
+    "pages/src/about/can",
+    "pages/src/about/check",
+    "pages/src/shop",
+    "pages/index/index",
+    "pages/src/about/setting",
+    "pages/src/listShop"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/src/collection",
+        "iconPath": "static/icon/shop.png",
+        "selectedIconPath": "static/icon/shop-active.png",
+        "text": "收样管理"
+      },
+      {
+        "pagePath": "pages/src/me",
+        "iconPath": "static/icon/contact.png",
+        "selectedIconPath": "static/icon/contact-active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

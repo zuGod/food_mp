@@ -1,0 +1,53 @@
+
+.star.data-v-2fea3d8c {
+	color: red;
+	float: left;
+}
+.word.data-v-2fea3d8c {
+	font-size: 18px;
+	font-style: initial;
+	padding: 15px 20px;
+}
+.picker.data-v-2fea3d8c,
+input.data-v-2fea3d8c {
+	border: 1px solid #333;
+	width: 60%;
+	float: right;
+	margin-right: 60px;
+}
+.input2.data-v-2fea3d8c {
+	width: 50%;
+	margin-right: 3px;
+}
+.input3.data-v-2fea3d8c {
+	margin-right: 40px;
+}
+.input4.data-v-2fea3d8c {
+	margin-right: 10px;
+}
+.input5.data-v-2fea3d8c {
+	width: 50%;
+	margin-right: 10px;
+}
+.input6.data-v-2fea3d8c {
+	margin-right: 20px;
+}
+.picker2.data-v-2fea3d8c {
+	border: 1px solid #333;
+	width: 60%;
+	float: right;
+	margin-right: 30px;
+}
+#editor.data-v-2fea3d8c {
+	width: 90%;
+	height: 100px;
+	border: 1px solid rgb(90, 87, 87);
+	margin-top: 10px;
+}
+.btn.data-v-2fea3d8c{
+	float: left;
+	width: 30%;
+	margin: 0 30px;
+	background-color: aqua;
+}
+

@@ -1,0 +1,35 @@
+
+.neirong{
+	margin: 10px;
+	font-size: 36rpx;
+}
+.xian{
+	height: 1rpx;
+	width: 100%;
+	background-color: gray;
+	margin-top: 30rpx;
+	margin-bottom: 30rpx;
+}
+.zhuxiao{
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: #00a2a2;
+	color:white
+}
+.button {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.popup-info {
+	color: #fff;
+	background-color: #00a2a2;
+}
+.info-text {
+	color: #909399;
+}
+.button-text {
+	color: #fff;
+	font-size: 16px;
+	text-align: center;
+}
+
